@@ -1,0 +1,14 @@
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\obj\Debug\net8.0\Ejercicio-1c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\obj\Debug\net8.0\Ejercicio-1c.AssemblyInfoInputs.cache
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\obj\Debug\net8.0\Ejercicio-1c.AssemblyInfo.cs
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\obj\Debug\net8.0\Ejercicio-1c.csproj.CoreCompileInputs.cache
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\bin\Debug\net8.0\Ejercicio-1c.exe
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\bin\Debug\net8.0\Ejercicio-1c.deps.json
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\bin\Debug\net8.0\Ejercicio-1c.runtimeconfig.json
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\bin\Debug\net8.0\Ejercicio-1c.dll
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\bin\Debug\net8.0\Ejercicio-1c.pdb
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\obj\Debug\net8.0\Ejercicio-1c.dll
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\obj\Debug\net8.0\refint\Ejercicio-1c.dll
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\obj\Debug\net8.0\Ejercicio-1c.pdb
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\obj\Debug\net8.0\Ejercicio-1c.genruntimeconfig.cache
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\Semana3\EjerciciosAdicionales\Ejercicio-1c\obj\Debug\net8.0\ref\Ejercicio-1c.dll

@@ -1,0 +1,14 @@
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\obj\Debug\net8.0\Binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\obj\Debug\net8.0\Binario.AssemblyInfoInputs.cache
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\obj\Debug\net8.0\Binario.AssemblyInfo.cs
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\obj\Debug\net8.0\Binario.csproj.CoreCompileInputs.cache
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\bin\Debug\net8.0\Binario.exe
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\bin\Debug\net8.0\Binario.deps.json
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\bin\Debug\net8.0\Binario.runtimeconfig.json
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\bin\Debug\net8.0\Binario.dll
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\bin\Debug\net8.0\Binario.pdb
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\obj\Debug\net8.0\Binario.dll
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\obj\Debug\net8.0\refint\Binario.dll
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\obj\Debug\net8.0\Binario.pdb
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\obj\Debug\net8.0\Binario.genruntimeconfig.cache
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Busqueda\Binario\obj\Debug\net8.0\ref\Binario.dll

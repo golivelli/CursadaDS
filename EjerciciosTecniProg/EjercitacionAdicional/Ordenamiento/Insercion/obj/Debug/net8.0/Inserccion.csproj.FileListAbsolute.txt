@@ -1,0 +1,14 @@
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\obj\Debug\net8.0\Inserccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\obj\Debug\net8.0\Inserccion.AssemblyInfoInputs.cache
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\obj\Debug\net8.0\Inserccion.AssemblyInfo.cs
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\obj\Debug\net8.0\Inserccion.csproj.CoreCompileInputs.cache
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\bin\Debug\net8.0\Inserccion.exe
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\bin\Debug\net8.0\Inserccion.deps.json
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\bin\Debug\net8.0\Inserccion.runtimeconfig.json
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\bin\Debug\net8.0\Inserccion.dll
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\bin\Debug\net8.0\Inserccion.pdb
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\obj\Debug\net8.0\Inserccion.dll
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\obj\Debug\net8.0\refint\Inserccion.dll
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\obj\Debug\net8.0\Inserccion.pdb
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\obj\Debug\net8.0\Inserccion.genruntimeconfig.cache
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Insercion\obj\Debug\net8.0\ref\Inserccion.dll

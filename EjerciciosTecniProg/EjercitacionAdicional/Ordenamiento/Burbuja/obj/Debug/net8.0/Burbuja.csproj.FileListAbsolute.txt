@@ -1,0 +1,14 @@
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\obj\Debug\net8.0\Burbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\obj\Debug\net8.0\Burbuja.AssemblyInfoInputs.cache
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\obj\Debug\net8.0\Burbuja.AssemblyInfo.cs
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\obj\Debug\net8.0\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\bin\Debug\net8.0\Burbuja.exe
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\bin\Debug\net8.0\Burbuja.deps.json
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\bin\Debug\net8.0\Burbuja.runtimeconfig.json
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\bin\Debug\net8.0\Burbuja.dll
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\bin\Debug\net8.0\Burbuja.pdb
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\obj\Debug\net8.0\Burbuja.dll
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\obj\Debug\net8.0\refint\Burbuja.dll
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\obj\Debug\net8.0\Burbuja.pdb
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\obj\Debug\net8.0\Burbuja.genruntimeconfig.cache
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjercitacionAdicional\Ordenamiento\Burbuja\obj\Debug\net8.0\ref\Burbuja.dll
