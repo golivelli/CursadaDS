@@ -1,0 +1,15 @@
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\obj\Debug\net9.0\EjercicioParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\obj\Debug\net9.0\EjercicioParcial.AssemblyInfoInputs.cache
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\obj\Debug\net9.0\EjercicioParcial.AssemblyInfo.cs
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\obj\Debug\net9.0\EjercicioParcial.csproj.CoreCompileInputs.cache
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\obj\Debug\net9.0\EjercicioParcial.sourcelink.json
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\bin\Debug\net9.0\EjercicioParcial.exe
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\bin\Debug\net9.0\EjercicioParcial.deps.json
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\bin\Debug\net9.0\EjercicioParcial.runtimeconfig.json
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\bin\Debug\net9.0\EjercicioParcial.dll
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\bin\Debug\net9.0\EjercicioParcial.pdb
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\obj\Debug\net9.0\EjercicioParcial.dll
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\obj\Debug\net9.0\refint\EjercicioParcial.dll
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\obj\Debug\net9.0\EjercicioParcial.pdb
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\obj\Debug\net9.0\EjercicioParcial.genruntimeconfig.cache
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase6\EjercicioParcial\obj\Debug\net9.0\ref\EjercicioParcial.dll

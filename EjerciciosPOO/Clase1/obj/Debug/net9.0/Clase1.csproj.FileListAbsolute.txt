@@ -12,3 +12,4 @@ C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjerciciosPOO\Clase1\obj\Deb
 C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjerciciosPOO\Clase1\obj\Debug\net9.0\Clase1.pdb
 C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjerciciosPOO\Clase1\obj\Debug\net9.0\Clase1.genruntimeconfig.cache
 C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjerciciosPOO\Clase1\obj\Debug\net9.0\ref\Clase1.dll
+C:\Users\geroo\OneDrive\Escritorio\EjerciciosCSharp\EjerciciosPOO\Clase1\obj\Debug\net9.0\Clase1.sourcelink.json

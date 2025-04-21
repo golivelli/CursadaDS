@@ -27,7 +27,7 @@ class Program {
 
     public void leerLibro()
     {
-      Console.WriteLine("asd");
+      Console.WriteLine("El libro se esta leyendo");
     }
   }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\geroo\\OneDrive\\Escritorio\\EjerciciosCSharp\\EjerciciosPOO\\Clase1\\Clase1.csproj": {}
+    "C:\\Users\\geroo\\OneDrive\\Escritorio\\Tec.Sup.DS\\EjerciciosCSharp\\EjerciciosPOO\\Clase1\\Clase1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\geroo\\OneDrive\\Escritorio\\EjerciciosCSharp\\EjerciciosPOO\\Clase1\\Clase1.csproj": {
+    "C:\\Users\\geroo\\OneDrive\\Escritorio\\Tec.Sup.DS\\EjerciciosCSharp\\EjerciciosPOO\\Clase1\\Clase1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\geroo\\OneDrive\\Escritorio\\EjerciciosCSharp\\EjerciciosPOO\\Clase1\\Clase1.csproj",
+        "projectUniqueName": "C:\\Users\\geroo\\OneDrive\\Escritorio\\Tec.Sup.DS\\EjerciciosCSharp\\EjerciciosPOO\\Clase1\\Clase1.csproj",
         "projectName": "Clase1",
-        "projectPath": "C:\\Users\\geroo\\OneDrive\\Escritorio\\EjerciciosCSharp\\EjerciciosPOO\\Clase1\\Clase1.csproj",
+        "projectPath": "C:\\Users\\geroo\\OneDrive\\Escritorio\\Tec.Sup.DS\\EjerciciosCSharp\\EjerciciosPOO\\Clase1\\Clase1.csproj",
         "packagesPath": "C:\\Users\\geroo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\geroo\\OneDrive\\Escritorio\\EjerciciosCSharp\\EjerciciosPOO\\Clase1\\obj\\",
+        "outputPath": "C:\\Users\\geroo\\OneDrive\\Escritorio\\Tec.Sup.DS\\EjerciciosCSharp\\EjerciciosPOO\\Clase1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

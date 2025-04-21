@@ -5,9 +5,9 @@ namespace clase1;
 class Program {
   public class Persona {
     // PROPIEDADES
-    public string nombre = "";
-    public string apellido = "";
-    public string nacionalidad = "";
+    public string nombre;
+    public string apellido;
+    public string nacionalidad;
     public int edad;
 
     // MÉTODOS
@@ -16,15 +16,15 @@ class Program {
       return camino;
     }
     public string sentarse(){
-      string sentado = "Estoy sentado";
+      string sentado = "Estoy sentado.";
       return sentado;
     }
     public string comer(){
-      string como = "Estoy comiendo";
+      string como = "Estoy comiendo.";
       return como;
     }
     public string entrenar(){
-      string entreno = "Estoy entrenando";
+      string entreno = "Estoy entrenando.";
       return entreno;
     }
   }
