@@ -5,6 +5,45 @@
 
 using System;
 
-class Program{
+class Program
+{
+  public class Ambiente
+  {
+    public string nombre, sistemaOperativo, baseDeDatos, app;
+    public int ram;
 
+    public Ambiente(string nombre, string sistemaOperativo, int ram, string baseDeDatos, string app)
+    {
+      this.nombre = nombre;
+      this.sistemaOperativo = sistemaOperativo;
+      this.ram = ram;
+      this.baseDeDatos = baseDeDatos;
+      this.app = app;
+    }
+
+    public void VerificarDespliegue()
+    {
+      if (sistemaOperativo.ToLower() == "linux" && ram == 4 && baseDeDatos.ToLower() == "postgresql" && app.ToLower() == "openjdk")
+      {
+        Console.WriteLine($"[{nombre}] El despliegue se puede realizar.");
+      }
+      else
+      {
+        Console.WriteLine($"[{nombre}] No será posible realizar el despliegue.");
+      }
+    }
+  }
+
+  static void Main(string[] args)
+  {
+    Ambiente desarrollo = new Ambiente("Desarrollo", "linux", 4, "postgresql", "openjdk");
+    Ambiente testing = new Ambiente("Testing", "linux", 2, "mysql", "openjdk");
+    Ambiente preproduccion = new Ambiente("Preproduccion", "Linux", 4, "postgresql", "openjdk");
+    Ambiente produccion = new Ambiente("Produccion", "LINUX", 4, "PostgreSQL", "OpenJDK");
+
+    desarrollo.VerificarDespliegue();
+    testing.VerificarDespliegue();
+    preproduccion.VerificarDespliegue();
+    produccion.VerificarDespliegue();
+  }
 }

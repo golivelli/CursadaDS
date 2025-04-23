@@ -10,7 +10,8 @@
 
 using System;
 
-class Program {
+class Program
+{
   abstract class Aplicacion
   {
     protected Empleado[] empleados;
@@ -26,12 +27,11 @@ class Program {
       return empleados;
     }
   }
-
   public class Empleado
   {
     protected string firstName, lastName;
     protected int age;
-    protected Rol rol; 
+    protected Rol rol;
 
     public Empleado(string firstName, string lastName, int age, Rol rol)
     {
@@ -40,11 +40,6 @@ class Program {
       this.age = age;
       this.rol = rol;
     }
-
-    // public override void setEmpleado()
-    // {
-
-    // }
     public Rol getRol()
     {
       return rol;
@@ -66,7 +61,8 @@ class Program {
         {
           Console.Write("Porfavor ingrese correctamente su edad.");
           Console.WriteLine("");
-        } else 
+        }
+        else
         {
           this.age = inputValue;
         }
@@ -85,7 +81,7 @@ class Program {
       {
         Console.Write("Ingrese su apellido: ");
         input = Console.ReadLine().Trim().ToLower();
-        
+
         isNumber = int.TryParse(input, out _);
 
         if (isNumber || string.IsNullOrWhiteSpace(input))
@@ -93,7 +89,7 @@ class Program {
           Console.WriteLine("Porfavor ingrese su apellido correctamente.");
           Console.WriteLine("");
         }
-      } while(isNumber || string.IsNullOrWhiteSpace(input));
+      } while (isNumber || string.IsNullOrWhiteSpace(input));
     }
     public string getLastName()
     {
@@ -108,7 +104,7 @@ class Program {
       {
         Console.Write("Ingrese su nombre: ");
         input = Console.ReadLine().Trim().ToLower();
-        
+
         isNumber = int.TryParse(input, out _);
 
         if (isNumber || string.IsNullOrWhiteSpace(input))
@@ -116,19 +112,18 @@ class Program {
           Console.WriteLine("Porfavor ingrese su nombre correctamente.");
           Console.WriteLine("");
         }
-      } while(isNumber || string.IsNullOrWhiteSpace(input));
+      } while (isNumber || string.IsNullOrWhiteSpace(input));
     }
     public string getFirstName()
     {
       return firstName;
     }
   }
-
   public class Rol
   {
     protected string nameRol;
 
-    public Rol(string nameRol) 
+    public Rol(string nameRol)
     {
       this.nameRol = nameRol;
     }
@@ -157,7 +152,6 @@ class Program {
       return nameRol;
     }
   }
-
   public class Desarrollador : Rol
   {
     protected string seniority, lenguaje;
@@ -177,7 +171,7 @@ class Program {
       {
         Console.Write("Ingrese su lenguaje favorito: ");
         input = Console.ReadLine().Trim().ToLower();
-        
+
         isNumber = int.TryParse(input, out _);
 
         if (isNumber || string.IsNullOrWhiteSpace(input))
@@ -185,7 +179,7 @@ class Program {
           Console.WriteLine("Porfavor correctamente su lenguaje favorito.");
           Console.WriteLine("");
         }
-      } while(isNumber || string.IsNullOrWhiteSpace(input));
+      } while (isNumber || string.IsNullOrWhiteSpace(input));
     }
     public string getLenguaje()
     {
@@ -200,25 +194,25 @@ class Program {
       {
         Console.Write("Ingrese su seniority: ");
         input = Console.ReadLine().Trim().ToLower();
-        
+
         isNumber = int.TryParse(input, out _);
 
         if (isNumber || string.IsNullOrWhiteSpace(input) || (input != "trainee" && input != "junior" && input != "semi-senior" && input != "senior"))
         {
           Console.WriteLine("Porfavor ingrese correctamente su seniority (trainee, junior, semi-senior, senior).");
           Console.WriteLine("");
-        } else 
+        }
+        else
         {
           this.seniority = input;
         }
-      } while(isNumber || string.IsNullOrWhiteSpace(input) || (input != "trainee" && input != "junior" && input != "semi-senior" && input != "senior"));
+      } while (isNumber || string.IsNullOrWhiteSpace(input) || (input != "trainee" && input != "junior" && input != "semi-senior" && input != "senior"));
     }
     public string getSeniority()
     {
       return seniority;
     }
   }
-
   public class Tester : Rol
   {
     protected string tipoTest;
@@ -247,7 +241,8 @@ class Program {
         {
           Console.Write("Porfavor ingrese valores mayores a cero, de forma numérica.");
           Console.WriteLine("");
-        } else 
+        }
+        else
         {
           this.cantProyect = inputValue;
         }
@@ -266,24 +261,26 @@ class Program {
       {
         Console.Write("Ingrese el método utilizado para testear (manual / automatico): ");
         input = Console.ReadLine().Trim().ToLower();
-        
+
         isNumber = int.TryParse(input, out _);
 
         if (isNumber || string.IsNullOrWhiteSpace(input) || (input != "manual" && input != "automatico"))
         {
           Console.WriteLine("Porfavor ingrese un valor correcto (manual / automatico).");
           Console.WriteLine("");
-        } else 
+        }
+        else
         {
           this.tipoTest = input;
         }
-      } while(isNumber || string.IsNullOrWhiteSpace(input) || (input != "manual" && input != "automatico"));
+      } while (isNumber || string.IsNullOrWhiteSpace(input) || (input != "manual" && input != "automatico"));
     }
     public string getTipoTest()
     {
       return tipoTest;
     }
   }
+
   static void Main(string[] args)
   {
     Console.WriteLine("Empleado 1");
@@ -303,7 +300,7 @@ class Program {
     Console.WriteLine("Empleado 3");
     Tester rol3 = new Tester("Manual", 7);
     Empleado test1 = new Empleado("Walter", "Lopez", 25, rol3);
-    Console.WriteLine($"Edad de {test1.getFirstName()} {test1.getLastName()}: " + test1.getAge() + " años"); 
+    Console.WriteLine($"Edad de {test1.getFirstName()} {test1.getLastName()}: " + test1.getAge() + " años");
 
     Console.WriteLine("");
 

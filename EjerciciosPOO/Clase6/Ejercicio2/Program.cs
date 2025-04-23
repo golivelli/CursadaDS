@@ -2,8 +2,6 @@
 // un Circulo y que éstas clases dependan de la clase Figura, la cual debe tener un método que sea
 // mostrarArea, donde debe consulte el valor de la variable area y si no es nulo, mostrar por consola el valor.
 
-using System;
-
 class Program
 {
   abstract class Figura
@@ -18,7 +16,6 @@ class Program
     }
 
     public abstract void calcularArea(); // Método Abstracto
-
     public void mostrarArea()
     {
       if (area != null)
@@ -91,7 +88,7 @@ class Program
     
     while (resT != "s" && resT != "n") {
       Console.Write("Ingrese correctamente los datos solictados (s/n).");
-      string resT = Console.ReadLine().Trim().ToLower();
+      resT = Console.ReadLine().Trim().ToLower();
     }
 
     if (resT == "s") {
@@ -112,7 +109,7 @@ class Program
 
     while (resC != "s" && resC != "n") {
       Console.Write("Ingrese correctamente los datos solictados (s/n).");
-      string resC = Console.ReadLine().Trim().ToLower();
+      resC = Console.ReadLine().Trim().ToLower();
     }
 
     if (resC == "s") {
@@ -134,7 +131,7 @@ class Program
 
     while (res != "s" && res != "n") {
       Console.Write("Ingrese correctamente los datos solictados (s/n).");
-      string res = Console.ReadLine().Trim().ToLower();
+      res = Console.ReadLine().Trim().ToLower();
     }
 
     if (res == "s") {
@@ -166,7 +163,6 @@ class Program
 
     return longitudC;
   }
-
   public static float validarLongitudC()
   {
     string input;
@@ -189,7 +185,6 @@ class Program
 
     return longitudC;
   }
-
   public static float validarAlturaT()
   {
     string input;
@@ -212,7 +207,6 @@ class Program
 
     return alturaT;
   }
-
   public static float validarBaseT()
   {
     string input;

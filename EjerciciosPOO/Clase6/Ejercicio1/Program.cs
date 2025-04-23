@@ -16,7 +16,6 @@ class Program
       this.id = idProducto;
     }
   }
-
   class Bebida : Producto
   {
     private string nombre;
@@ -41,7 +40,6 @@ class Program
 
       return null;
     }
-
     public static void ControlStockBebida(Bebida[] bebidas)
     {
       foreach (var bebida in bebidas)
@@ -60,7 +58,6 @@ class Program
         }
       }
     }
-
     public static void VentaProductoBebida(Bebida[] bebidas, string bebidaAVender)
     {
       Bebida bebidaABuscar = Bebida.BuscarBebidaPorNombre(bebidas, bebidaAVender);
@@ -83,7 +80,6 @@ class Program
       }
     }
   }
-
   class Alimento : Producto
   {
     private string nombre;
@@ -94,7 +90,6 @@ class Program
       this.nombre = nombreAlimento;
       this.stock = stockProducto;
     }
-
     public static Alimento BuscarAlimentoPorNombre(Alimento[] alimentos, string alimentoAVender)
     {
       foreach (var alimento in alimentos)
@@ -107,7 +102,6 @@ class Program
 
       return null;
     }
-
     public static void ControlStockAlimento(Alimento[] alimentos)
     {
       foreach (var alimento in alimentos)
@@ -126,7 +120,6 @@ class Program
         }
       }
     }
-
     public static void VentaProductoAlimento(Alimento[] alimentos, string alimentoAVender)
     {
       Alimento alimentoABuscar = Alimento.BuscarAlimentoPorNombre(alimentos, alimentoAVender);
@@ -198,8 +191,7 @@ class Program
 
       Console.WriteLine("--- ESTADO DEL STOCK LUEGO DE UNA VENTA ---");
       Alimento.ControlStockAlimento(alimentos);
-    }
-    else
+    } else
     {
       Console.WriteLine("No hay stock de alimentos.");
     }
@@ -248,8 +240,7 @@ class Program
 
       Console.WriteLine("--- ESTADO DEL STOCK LUEGO DE UNA VENTA ---");
       Bebida.ControlStockBebida(bebidas);
-    }
-    else
+    } else
     {
       Console.Write("No hay stock de bebidas.");
     }
@@ -276,7 +267,6 @@ class Program
 
     return input;
   }
-
   public static int ingresarStockDeAlimento()
   {
     string input;
@@ -299,7 +289,6 @@ class Program
 
     return stockDeAlimento;
   }
-
   public static int ingresarStockDeBebida()
   {
     string input;
@@ -322,7 +311,6 @@ class Program
 
     return stockDeBebida;
   }
-
   public static string ingresarNombreAlimento()
   {
     string input;
@@ -344,7 +332,6 @@ class Program
 
     return input;
   }
-
   public static string ingresarNombreBebida()
   {
     string input;
@@ -366,7 +353,6 @@ class Program
 
     return input;
   }
-
   public static string ingresarIDProducto()
   {
     string input;
@@ -385,7 +371,6 @@ class Program
 
     return input;
   }
-
   public static int ingresarStockBebidas()
   {
     string input;
@@ -408,7 +393,6 @@ class Program
 
     return stockBebidas;
   }
-
   public static int ingresarStockAlimentos()
   {
     string input;
