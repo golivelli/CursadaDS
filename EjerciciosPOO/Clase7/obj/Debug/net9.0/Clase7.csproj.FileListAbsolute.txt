@@ -1,0 +1,15 @@
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\obj\Debug\net9.0\Clase7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\obj\Debug\net9.0\Clase7.AssemblyInfoInputs.cache
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\obj\Debug\net9.0\Clase7.AssemblyInfo.cs
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\obj\Debug\net9.0\Clase7.csproj.CoreCompileInputs.cache
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\obj\Debug\net9.0\Clase7.sourcelink.json
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\bin\Debug\net9.0\Clase7.exe
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\bin\Debug\net9.0\Clase7.deps.json
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\bin\Debug\net9.0\Clase7.runtimeconfig.json
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\bin\Debug\net9.0\Clase7.dll
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\bin\Debug\net9.0\Clase7.pdb
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\obj\Debug\net9.0\Clase7.dll
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\obj\Debug\net9.0\refint\Clase7.dll
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\obj\Debug\net9.0\Clase7.pdb
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\obj\Debug\net9.0\Clase7.genruntimeconfig.cache
+C:\Users\geroo\OneDrive\Escritorio\Tec.Sup.DS\EjerciciosCSharp\EjerciciosPOO\Clase7\obj\Debug\net9.0\ref\Clase7.dll
